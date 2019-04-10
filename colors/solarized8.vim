@@ -119,7 +119,7 @@ if !get(g:, 'solarized_use16', &t_Co < 256)
     hi MatchParen ctermfg=230 ctermbg=236 guifg=#fdf6e3 guibg=#073642 guisp=NONE cterm=NONE,bold gui=NONE,bold
     hi ModeMsg ctermfg=32 ctermbg=NONE guifg=#268bd2 guibg=NONE guisp=NONE cterm=NONE gui=NONE
     hi MoreMsg ctermfg=32 ctermbg=NONE guifg=#268bd2 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-    hi Pmenu ctermfg=247 ctermbg=236 guifg=#93a1a1 guibg=#073642 guisp=NONE cterm=NONE gui=NONE
+    hi Pmenu ctermfg=247 ctermbg=236 guifg=#93a1a1 guibg=#01232b guisp=NONE cterm=NONE gui=NONE
     hi PmenuSbar ctermfg=NONE ctermbg=242 guifg=NONE guibg=#586e75 guisp=NONE cterm=NONE gui=NONE
     hi PmenuSel ctermfg=254 ctermbg=66 guifg=#eee8d5 guibg=#657b83 guisp=NONE cterm=NONE gui=NONE
     hi PmenuThumb ctermfg=NONE ctermbg=246 guifg=NONE guibg=#839496 guisp=NONE cterm=NONE gui=NONE
@@ -499,7 +499,7 @@ if !get(g:, 'solarized_use16', &t_Co < 256)
   hi IncSearch ctermfg=166 ctermbg=NONE guifg=#cb4b16 guibg=NONE guisp=NONE cterm=NONE,standout gui=NONE,standout
   hi ModeMsg ctermfg=32 ctermbg=NONE guifg=#268bd2 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi MoreMsg ctermfg=32 ctermbg=NONE guifg=#268bd2 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Pmenu ctermfg=242 ctermbg=254 guifg=#586e75 guibg=#eee8d5 guisp=NONE cterm=NONE gui=NONE
+  hi Pmenu ctermfg=242 ctermbg=254 guifg=#586e75 guibg=#fffcf4 guisp=NONE cterm=NONE gui=NONE
   hi PmenuSbar ctermfg=NONE ctermbg=247 guifg=NONE guibg=#93a1a1 guisp=NONE cterm=NONE gui=NONE
   hi PmenuSel ctermfg=254 ctermbg=246 guifg=#eee8d5 guibg=#839496 guisp=NONE cterm=NONE gui=NONE
   hi PmenuThumb ctermfg=NONE ctermbg=66 guifg=NONE guibg=#657b83 guisp=NONE cterm=NONE gui=NONE
